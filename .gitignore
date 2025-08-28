@@ -23,3 +23,8 @@ Project Outputs*/
 # Project hierarchy auto-generated file
 *.PrjPcbStructure
 *.PrjMbdStructure
+
+# Additional ignores
+Assembly\ Exports/
+*.rawProject\ Outputs*/
+**/Release/
