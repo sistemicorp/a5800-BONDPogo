@@ -71,7 +71,8 @@ Then, in Altium,
 4. Check the BOND schematic `a4402-SCH_05.pdf` for the population options of your BOND.  BOND
    has some flexibility, and the template may need to change to match your BOND.
 5. In the layout, place the spring pins under the DUT test points.  **Do not move the headers
-   TH1-TH4**, they must line up with BOND.
+   TH1-TH4**, they must line up with BOND.  The board outline can change to suit your DUT and
+   jig.
 6. Add the 3D model of your DUT, and export a STEP of the whole stack up (BOND, Pogo board,
    DUT) for the jig's mechanical design.
 
